@@ -4,7 +4,7 @@ body {
 }
 
 .background-container{
-    background-image: linear-gradient(to top right, #6267f5, #e340e0);
+    background-image: linear-gradient(to top right, #62bff5, #40e34e);
     margin: 0;
     padding: 0;
     height: 100vh;
@@ -12,7 +12,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Lobster', cursive;
     background-size: cover;
 }
 
@@ -62,7 +62,7 @@ label{
 }
 
 .success-icon{
-    color: #6aed4a;
+    color: #49f01f;
     font-size: 80px;
     margin-bottom: 30px;
     margin-top: 20px;
